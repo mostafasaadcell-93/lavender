@@ -1,0 +1,1300 @@
+{
+ "menu": [
+  {
+   "ID": 11,
+   "DESCRIPTION": "Mocktails And Juices",
+   "PIC": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/6989/pda_menus/whatsapp-image-2025-09-02-at-165917-2.jpeg",
+   "groups": [
+    {
+     "GROUPNAME": "Mocktails And Juices",
+     "CATEGORYID": 8,
+     "items": [
+      {
+       "ID": 56,
+       "ITEMNAME": "Fresh Orange Juice",
+       "PRICE": 4,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 57,
+       "ITEMNAME": "Fresh Strawberry Juice",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 58,
+       "ITEMNAME": "Lemonade",
+       "PRICE": 4,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 59,
+       "ITEMNAME": "Minted Lemonade",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 60,
+       "ITEMNAME": "Lychee Lemonade",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 61,
+       "ITEMNAME": "Strawberry Lemonade",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 62,
+       "ITEMNAME": "Blueberry Lemonade",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 165,
+       "ITEMNAME": "Vana sunset",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ID": 10,
+   "DESCRIPTION": "Frappe",
+   "PIC": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/6989/pda_menus/whatsapp-image-2025-09-02-at-165920-1.jpeg",
+   "groups": [
+    {
+     "GROUPNAME": "Frappe",
+     "CATEGORYID": 8,
+     "items": [
+      {
+       "ID": 51,
+       "ITEMNAME": "Mocha Frappe",
+       "PRICE": 6,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 52,
+       "ITEMNAME": "Caramel Frappe",
+       "PRICE": 6,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 53,
+       "ITEMNAME": "White Mocha Frappe",
+       "PRICE": 6,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 54,
+       "ITEMNAME": "Tiramisu Frappe",
+       "PRICE": 6,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 55,
+       "ITEMNAME": "Vanilla Frappe",
+       "PRICE": 6,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ID": 12,
+   "DESCRIPTION": "Latte",
+   "PIC": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/6989/pda_menus/whatsapp-image-2025-09-02-at-165915-4.jpeg",
+   "groups": [
+    {
+     "GROUPNAME": "Latte",
+     "CATEGORYID": 8,
+     "items": [
+      {
+       "ID": 63,
+       "ITEMNAME": "Coffee Latte",
+       "PRICE": 4,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 64,
+       "ITEMNAME": "Mocha Latte",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 65,
+       "ITEMNAME": "Caramel Latte",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 66,
+       "ITEMNAME": "Hazelnut Latte",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 67,
+       "ITEMNAME": "Vanilla Latte",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 68,
+       "ITEMNAME": "Tiramisu Latte",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ID": 14,
+   "DESCRIPTION": "Iced Latte",
+   "PIC": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/6989/pda_menus/whatsapp-image-2025-09-02-at-165919-2.jpeg",
+   "groups": [
+    {
+     "GROUPNAME": "Iced Latte",
+     "CATEGORYID": 8,
+     "items": [
+      {
+       "ID": 69,
+       "ITEMNAME": "Mocha Iced Latte",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 70,
+       "ITEMNAME": "Caramel Iced Latte",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 71,
+       "ITEMNAME": "Hazelnut Iced Latte",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 72,
+       "ITEMNAME": "Vanilla Iced Latte",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 73,
+       "ITEMNAME": "Tiramisu Iced Latte",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ID": 15,
+   "DESCRIPTION": "Refreshers",
+   "PIC": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/6989/pda_menus/whatsapp-image-2025-09-02-at-165922.jpeg",
+   "groups": [
+    {
+     "GROUPNAME": "Refreshers",
+     "CATEGORYID": 8,
+     "items": [
+      {
+       "ID": 93,
+       "ITEMNAME": "Icetea Peach",
+       "PRICE": 4,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 94,
+       "ITEMNAME": "Iceatea Mango",
+       "PRICE": 4,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 95,
+       "ITEMNAME": "Mojito Mint",
+       "PRICE": 4,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 96,
+       "ITEMNAME": "Blueberry Mojito",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 97,
+       "ITEMNAME": "Strawberry Mojito",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 98,
+       "ITEMNAME": "Exotic Mojito",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 99,
+       "ITEMNAME": "Lychee Mojito",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ID": 16,
+   "DESCRIPTION": "Milkshakes",
+   "PIC": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/6989/pda_menus/whatsapp-image-2025-09-02-at-165917.jpeg",
+   "groups": [
+    {
+     "GROUPNAME": "Milkshakes",
+     "CATEGORYID": 8,
+     "items": [
+      {
+       "ID": 74,
+       "ITEMNAME": "Strawberry MilkShake",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 75,
+       "ITEMNAME": "Caramel MilkShake",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 76,
+       "ITEMNAME": "Oreo MilkShake",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 77,
+       "ITEMNAME": "Lotus MilkShake",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 78,
+       "ITEMNAME": "Vanilla MilkShake",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 79,
+       "ITEMNAME": "Blueberry MilkShake",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 80,
+       "ITEMNAME": "Lavender MilkShake",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 81,
+       "ITEMNAME": "Pistachio MilkShake",
+       "PRICE": 6,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 196,
+       "ITEMNAME": "Chocolate Milkshakes",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ID": 17,
+   "DESCRIPTION": "Smoothies",
+   "PIC": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/6989/pda_menus/whatsapp-image-2025-09-02-at-165922-1.jpeg",
+   "groups": [
+    {
+     "GROUPNAME": "Smoothies",
+     "CATEGORYID": 8,
+     "items": [
+      {
+       "ID": 82,
+       "ITEMNAME": "Mango Smoothie",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 83,
+       "ITEMNAME": "Strawberry Smoothie",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 84,
+       "ITEMNAME": "Exotic Smoothie",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 85,
+       "ITEMNAME": "Blueberry Smoothie",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 86,
+       "ITEMNAME": "Mango Strawberry Smoothie",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ID": 18,
+   "DESCRIPTION": "Hot Beverages",
+   "PIC": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/6989/pda_menus/whatsapp-image-2025-09-02-at-165918.jpeg",
+   "groups": [
+    {
+     "GROUPNAME": "Hot Beverages",
+     "CATEGORYID": 8,
+     "items": [
+      {
+       "ID": 100,
+       "ITEMNAME": "Espresso",
+       "PRICE": 2,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 101,
+       "ITEMNAME": "Dopio",
+       "PRICE": 3,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 102,
+       "ITEMNAME": "Cappuccino",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 103,
+       "ITEMNAME": "Americano",
+       "PRICE": 3,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 104,
+       "ITEMNAME": "Hot Chocolate",
+       "PRICE": 4,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 105,
+       "ITEMNAME": "Tea",
+       "PRICE": 2,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 106,
+       "ITEMNAME": "Tea Selection",
+       "PRICE": 3,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 107,
+       "ITEMNAME": "Rakwa",
+       "PRICE": 3,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 108,
+       "ITEMNAME": "Coffee Decaf",
+       "PRICE": 2,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 109,
+       "ITEMNAME": "Nescafé (Milk Or Coffee Mate)",
+       "PRICE": 4,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ID": 19,
+   "DESCRIPTION": "Cold Beverages",
+   "PIC": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/6989/pda_menus/whatsapp-image-2025-09-02-at-165914-3.jpeg",
+   "groups": [
+    {
+     "GROUPNAME": "Cold Beverages",
+     "CATEGORYID": 8,
+     "items": [
+      {
+       "ID": 112,
+       "ITEMNAME": "Water Small",
+       "PRICE": 1,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 113,
+       "ITEMNAME": "Water Large",
+       "PRICE": 2,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 114,
+       "ITEMNAME": "Sparkling Water",
+       "PRICE": 2,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 115,
+       "ITEMNAME": "Soft Drinks",
+       "PRICE": 2,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 116,
+       "ITEMNAME": "Almaza Light",
+       "PRICE": 4,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 117,
+       "ITEMNAME": "Almaza",
+       "PRICE": 4,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 118,
+       "ITEMNAME": "Mexican",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 119,
+       "ITEMNAME": "XXL",
+       "PRICE": 3,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 120,
+       "ITEMNAME": "Boom Boom",
+       "PRICE": 3,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 121,
+       "ITEMNAME": "Redbull",
+       "PRICE": 4,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 170,
+       "ITEMNAME": "7up",
+       "PRICE": 2,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 171,
+       "ITEMNAME": "Diet 7up",
+       "PRICE": 2,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 172,
+       "ITEMNAME": "Pepsi",
+       "PRICE": 2,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 173,
+       "ITEMNAME": "Diet Pepsi",
+       "PRICE": 2,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 174,
+       "ITEMNAME": "Mirinda",
+       "PRICE": 2,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 175,
+       "ITEMNAME": "Diet Mirinda",
+       "PRICE": 2,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 225,
+       "ITEMNAME": "Tonic",
+       "PRICE": 2,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ID": 13,
+   "DESCRIPTION": "Alcoholic Cocktails",
+   "PIC": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/6989/pda_menus/whatsapp-image-2025-09-02-at-165915-2_1.jpeg",
+   "groups": [
+    {
+     "GROUPNAME": "Alcoholic Cocktails",
+     "CATEGORYID": 8,
+     "items": [
+      {
+       "ID": 87,
+       "ITEMNAME": "Gin Basil",
+       "PRICE": 6.5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 88,
+       "ITEMNAME": "Maragarita",
+       "PRICE": 6.5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 89,
+       "ITEMNAME": "Passion Fruit Martini",
+       "PRICE": 6.5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 90,
+       "ITEMNAME": "Blueberry Margarita",
+       "PRICE": 6.5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 91,
+       "ITEMNAME": "Lavender Martini",
+       "PRICE": 6.5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 92,
+       "ITEMNAME": "Jager Bomb",
+       "PRICE": 6.5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ID": 20,
+   "DESCRIPTION": "Wiskey",
+   "PIC": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/6989/pda_menus/whatsapp-image-2025-09-02-at-165914-4.jpeg",
+   "groups": [
+    {
+     "GROUPNAME": "Wiskey",
+     "CATEGORYID": 8,
+     "items": [
+      {
+       "ID": 122,
+       "ITEMNAME": "Red Label Glass",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 123,
+       "ITEMNAME": "Black Label Glass",
+       "PRICE": 7,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 124,
+       "ITEMNAME": "Jameson Glass",
+       "PRICE": 6,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 125,
+       "ITEMNAME": "Glenfiddich Glass",
+       "PRICE": 8,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 126,
+       "ITEMNAME": "Chivas Glass",
+       "PRICE": 7,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 127,
+       "ITEMNAME": "Red Label Bottle 75Cl",
+       "PRICE": 40,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 128,
+       "ITEMNAME": "Black Label Bottle 75Cl",
+       "PRICE": 60,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 129,
+       "ITEMNAME": "Jameson Bottle 70Cl",
+       "PRICE": 50,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 130,
+       "ITEMNAME": "Chivas Bottle 70Cl",
+       "PRICE": 60,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 131,
+       "ITEMNAME": "Glenfiddich Bottle 70Cl",
+       "PRICE": 80,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 228,
+       "ITEMNAME": "Red label 370ml",
+       "PRICE": 25,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 229,
+       "ITEMNAME": "Black label 370ml",
+       "PRICE": 35,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ID": 21,
+   "DESCRIPTION": "Shots",
+   "PIC": null,
+   "groups": [
+    {
+     "GROUPNAME": "Shots",
+     "CATEGORYID": 8,
+     "items": [
+      {
+       "ID": 143,
+       "ITEMNAME": "Jager",
+       "PRICE": 3,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 144,
+       "ITEMNAME": "Tequila",
+       "PRICE": 3,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 145,
+       "ITEMNAME": "Baileys",
+       "PRICE": 3,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ID": 22,
+   "DESCRIPTION": "Vodka",
+   "PIC": null,
+   "groups": [
+    {
+     "GROUPNAME": "Vodka",
+     "CATEGORYID": 8,
+     "items": [
+      {
+       "ID": 132,
+       "ITEMNAME": "Russain Standard Glass",
+       "PRICE": 4,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 133,
+       "ITEMNAME": "Russian Gold Glass",
+       "PRICE": 6,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 134,
+       "ITEMNAME": "Stoli Glass",
+       "PRICE": 4,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 135,
+       "ITEMNAME": "Stoli Elite Glass",
+       "PRICE": 7,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 136,
+       "ITEMNAME": "Belveder Glass",
+       "PRICE": 10,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 137,
+       "ITEMNAME": "Grey Goose Glass",
+       "PRICE": 10,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 138,
+       "ITEMNAME": "Stoli Botlle 70Cl",
+       "PRICE": 28,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 139,
+       "ITEMNAME": "Russian Standard 70Cl",
+       "PRICE": 28,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ID": 23,
+   "DESCRIPTION": "Gin",
+   "PIC": null,
+   "groups": [
+    {
+     "GROUPNAME": "Gin",
+     "CATEGORYID": 8,
+     "items": [
+      {
+       "ID": 140,
+       "ITEMNAME": "Gordon's Glass",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 141,
+       "ITEMNAME": "Bombay Glass",
+       "PRICE": 7,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 142,
+       "ITEMNAME": "Gordon's Bottle",
+       "PRICE": 28,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ID": 24,
+   "DESCRIPTION": "Wine",
+   "PIC": null,
+   "groups": [
+    {
+     "GROUPNAME": "Wine",
+     "CATEGORYID": 8,
+     "items": [
+      {
+       "ID": 146,
+       "ITEMNAME": "Red Wine Glass",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 147,
+       "ITEMNAME": "White Wine Glass",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 148,
+       "ITEMNAME": "Rose Wine Glass",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 149,
+       "ITEMNAME": "Warde Red 75Cl",
+       "PRICE": 25,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 150,
+       "ITEMNAME": "Warde White 75Cl",
+       "PRICE": 25,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 151,
+       "ITEMNAME": "Warde Rose 75Cl",
+       "PRICE": 25,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 152,
+       "ITEMNAME": "Ksara Reserve Red 75Cl",
+       "PRICE": 25,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 153,
+       "ITEMNAME": "Ksara Rose 75Cl",
+       "PRICE": 25,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 154,
+       "ITEMNAME": "Ksara Blanc De Blanc 75Cl",
+       "PRICE": 25,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 155,
+       "ITEMNAME": "Kefraya Red 75Cl",
+       "PRICE": 25,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 156,
+       "ITEMNAME": "Sunset Rose 75Cl",
+       "PRICE": 25,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 157,
+       "ITEMNAME": "Sunset Rose 150Cl",
+       "PRICE": 50,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 158,
+       "ITEMNAME": "Kefraya Blanc De Blanc 75Cl",
+       "PRICE": 25,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ID": 25,
+   "DESCRIPTION": "Shisha",
+   "PIC": null,
+   "groups": [
+    {
+     "GROUPNAME": "Shisha",
+     "CATEGORYID": 3,
+     "items": [
+      {
+       "ID": 159,
+       "ITEMNAME": "Hamod w n3ana3 (+3$ Extra)",
+       "PRICE": 8,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 160,
+       "ITEMNAME": "Teffehten (+3$ Extra)",
+       "PRICE": 8,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 162,
+       "ITEMNAME": "Aajami (+5$ Extra)",
+       "PRICE": 10,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 166,
+       "ITEMNAME": "Other flavors (+3$ Extra)",
+       "PRICE": 8,
+       "ITEMDESCRIPTION": "(3enab, na3na3, 3enab w na3na3, Blueberry, Love)",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 169,
+       "ITEMNAME": "Extra Hose",
+       "PRICE": 2,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ID": 26,
+   "DESCRIPTION": "Dessert",
+   "PIC": null,
+   "groups": [
+    {
+     "GROUPNAME": "Cakes",
+     "CATEGORYID": 5,
+     "items": [
+      {
+       "ID": 176,
+       "ITEMNAME": "Fondant Mou",
+       "PRICE": 8,
+       "ITEMDESCRIPTION": "Served with a scoop of icecream",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 178,
+       "ITEMNAME": "Chocolate biscuit Cake",
+       "PRICE": 7,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 179,
+       "ITEMNAME": "Brownies",
+       "PRICE": 7.5,
+       "ITEMDESCRIPTION": "Served with icecream scoop",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      },
+      {
+       "ID": 180,
+       "ITEMNAME": "Strawberry cheesecake",
+       "PRICE": 6,
+       "ITEMDESCRIPTION": null,
+       "POPULAR": 0,
+       "NEWITEM": 0
+      }
+     ]
+    },
+    {
+     "GROUPNAME": "Icecream",
+     "CATEGORYID": 5,
+     "items": [
+      {
+       "ID": 177,
+       "ITEMNAME": "Icecream cup",
+       "PRICE": 5,
+       "ITEMDESCRIPTION": "3 scoops (+2$ per scoop)",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ID": 28,
+   "DESCRIPTION": "Cigar selection",
+   "PIC": null,
+   "groups": [
+    {
+     "GROUPNAME": "Cigar selection",
+     "CATEGORYID": 3,
+     "items": [
+      {
+       "ID": 198,
+       "ITEMNAME": "Cigar selection",
+       "PRICE": 10,
+       "ITEMDESCRIPTION": "",
+       "POPULAR": 0,
+       "NEWITEM": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "categories": [
+  {
+   "CATEGORYID": 8,
+   "CATEGORYNAME": "Bar",
+   "ACATEGORYNAME": null,
+   "PIC": "https://menu.omegasoftware.ca/images/restaurantPage/foodImages/categories/BeverageIcon-light.png?1"
+  },
+  {
+   "CATEGORYID": 3,
+   "CATEGORYNAME": "Tobacco",
+   "ACATEGORYNAME": "Tobacco",
+   "PIC": "https://menu.omegasoftware.ca/images/restaurantPage/foodImages/categories/Tobacco-light.png?1"
+  },
+  {
+   "CATEGORYID": 5,
+   "CATEGORYNAME": "Dessert",
+   "ACATEGORYNAME": "Dessert",
+   "PIC": "https://menu.omegasoftware.ca/images/restaurantPage/foodImages/categories/DessertIcon-light.png?1"
+  }
+ ],
+ "branch": {
+  "BARANCHNAME": "Lavender lounge",
+  "STREET": "Ain deleb",
+  "CITY": "Saida",
+  "PHONE1": "78946238",
+  "PHONE2": "81097858",
+  "MESSAGEONPOS1": "Rate:90000",
+  "LAT": 33.545311326779,
+  "LNG": 35.407760739326,
+  "url_instagram": "https://www.instagram.com/lavenderlounge.leb?igsh=MTZwdjdpdHNxMmZ0Mg==",
+  "ZONE_NAME": "Asia/Beirut"
+ }
+}
